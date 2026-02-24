@@ -12,11 +12,3 @@
 <img src="https://gh-stats-1.vercel.app/api/top-langs/?username=AmirhosseinBahrani&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmirhosseinBahrani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
